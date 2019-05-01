@@ -1,3 +1,7 @@
+---
+description: test
+---
+
 # ZingChart Object and Methods
 
 ### Overview
