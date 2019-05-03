@@ -8,3 +8,7 @@
 
 * [ZingChart Object and Methods](api/zingchart-object-and-methods.md)
 
+## Tutorials
+
+* [Chart Plot & Series Styling](tutorials/chart-plot-and-series-styling.md)
+
