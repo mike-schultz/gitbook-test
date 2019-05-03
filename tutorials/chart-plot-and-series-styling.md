@@ -1,6 +1,6 @@
 # Chart Plot & Series Styling Hey!
 
-### Overview
+### New Overview changes from github
 
 While ZingChart provides default styling themes for all of our chart types, most users want to modify the appearance to better meet the needs of their individual projects. It is in the `"plot"` and `"series"` objects that you apply attributes to change the styling of data points on your chart. These changes can be applied to affect a single series or the entire series array. We also offer the functionality to style by node or individual data points. Finally, this tutorial explains the different state types, or how data can appear under different conditions \(when data points are hovered over, selected, and so on\).  
 
