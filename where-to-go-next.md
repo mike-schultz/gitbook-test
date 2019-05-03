@@ -1,6 +1,6 @@
 # Where To Go Next
 
-We've covered [how to download the ZingChart library](https://www.zingchart.com/try/). We've set up [your first JavaScript chart](https://www.zingchart.com/docs/getting-started/your-first-chart/). And, we've [added additional charts](https://www.zingchart.com/docs/getting-started/adding-more-charts/) to your webpage. Well done! Now, where should you go next?
+We've coverded [how to download the ZingChart library](https://www.zingchart.com/try/). We've set up [your first JavaScript chart](https://www.zingchart.com/docs/getting-started/your-first-chart/). And, we've [added additional charts](https://www.zingchart.com/docs/getting-started/adding-more-charts/) to your webpage. Well done! Now, where should you go next?
 
 * Discover more chart types by diving into our [Chart Types docs](https://www.zingchart.com/docs/chart-types/).
 * Learn the many different ways to configure and load your data with our [Loading Data docs](https://www.zingchart.com/docs/tutorials/loading-data/).
